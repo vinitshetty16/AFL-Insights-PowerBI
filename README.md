@@ -1,10 +1,10 @@
 # 🏉 AFL Insights Dashboard: 2012 – 2024
 
 > 🚀 An interactive Power BI dashboard delivering deep insights into Australian Football League (AFL) statistics from 2012 to 2024
-
-![AFL Background](afl_logp.png)
-
----
+> 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/fbb78b35-e190-4525-a1e1-a27e06775c30" alt="Alt Text" width="800" height="400">
+</p>
 
 ## 📊 Overview
 
@@ -58,9 +58,9 @@ It uses **Power BI** for dynamic storytelling and customized logic to provide sl
 ## 📬 Contact
 
 **Vinit Shetty**  
-📧 vinitshetty31@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vinitshetty/) 
-🌏 Based in Melbourne, Australia
+> 📧 vinitshetty31@gmail.com  
+> 🔗 [LinkedIn](https://www.linkedin.com/in/vinitshetty/)<br>
+> 🌏 Based in Melbourne, Australia
 
 ---
 
