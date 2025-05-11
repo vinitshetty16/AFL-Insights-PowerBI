@@ -1,64 +1,74 @@
-# 🏉 AFL Insights Dashboard (2012–2024) 📊  
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue) ![Status](https://img.shields.io/badge/Status-Complete-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+# 🏉 AFL Insights Dashboard: 2012 – 2024
 
-> 🎯 A fully interactive, futuristic Power BI dashboard to explore AFL player and team stats from 2012 to 2024.
+> 🚀 An interactive Power BI dashboard delivering deep insights into Australian Football League (AFL) statistics from 2012 to 2024
 
----
-
-## 🎬 AFL Analytics Showcase
-
-![AFL Background](AFL_DASHBOARD_IMAGE.png)
-
-> 🚀 **Explore efficiency, match trends, player profiles & more in one sleek, dark-themed dashboard.**  
-
-📌 Designed with a neon blue-purple aesthetic, smart filters, custom visuals, and optimized slicer interactions.
+![AFL Background](afl_logp.png)
 
 ---
 
-## 📎 [Click here to view the interactive dashboard →](https://www.novypro.com/project/afl-insights-dashboard-2012%E2%80%932024)
+## 📊 Overview
 
-> *(Opens in a new tab — no login required)*
-
----
-
-## 🧩 Key Features
-
-✅ **Top 5 Player Rankings**  
-✅ Dynamic Slicers (Team, Year, Round, Position, Player)  
-✅ Player Radar Chart (Skills Spread)  
-✅ Games Played vs Games Won Line Chart  
-✅ Opponent Difficulty Heatmap  
-✅ Interactive Tooltips & Conditional Formatting  
-✅ Fully Responsive Layout  
-✅ Modern UI/UX Styling  
-✅ Drilldowns by Year, Round, and Player
+This AFL Insights Dashboard is designed to empower fans, analysts, and teams to **visually track performance**, compare players, and explore match-level analytics.  
+It uses **Power BI** for dynamic storytelling and customized logic to provide slicer-controlled insights — all themed in a sleek, neon-blue dark mode.
 
 ---
 
-## 📷 Preview
+## 🔗 [Click here to view the interactive dashboard on NovyPro →](https://www.novypro.com/project/afl-insights-dashboard-2012%E2%80%932024)
 
-![Dashboard Preview](AFL_DASHBOARD_IMAGE.png)
+> *(No login required, view live in browser)*
+
+---
+
+## 📊 Features
+
+### 🎯 **Team-Based Insights**
+- **Team KPI Cards** — KPI Cards filtered by Team/Year for Total Wins, Average Home & Away Score, Average Attendance
+- **Win/Loss Breakdown** — Donut chart with custom color logic for match results  
+- **Opponent Difficulty Heatmap** — Avg. score conceded per team (color-scaled, sorted)  
+- **Home vs Away Score Trends** — Dual-line chart across years
+- **Top 5 Players/Team by Efficiency** — Based on a weighted AFL dream team score formula
+
+### 👤 **Player-Based Insights**
+
+- **Radar Stat Profile** — Goals, disposals, marks, tackles, kicks, handballs  
+- **Player Info Card** — Age, height (feet/inches), weight (kg), team & position  
+- **Games Played/Won per Year** — Dual-line chart with trend styling  
+
+### 🎛️ **Slicer Controls**
+
+- **Team**
+- **Year**
+- **Round**
+- **Player**
+- **Position**
+> 🧠 Controlled with ALLEXCEPT/REMOVEFILTERS to ensure **visual independence**, e.g., Player Profile ignores Round/Position filters for focus.
 
 ---
 
 ## 🛠️ Built With
 
-| Tool           | Purpose                |
-|----------------|------------------------|
-| Power BI       | Data visualization     |
-| DAX            | Measures & logic       |
-| Excel (CSV)    | Source data cleaning   |
+| Tool       | Purpose                     |
+|------------|-----------------------------|
+| Power BI   | Data storytelling           |
+| DAX        | Calculated measures, filters|
+| Excel/CSV  | Data wrangling              |
 
 ---
 
-## 🧪 How to Use
+## 📬 Contact
 
-1. Clone this repo or download the `.pbix` file.
-2. Open in Power BI Desktop (latest version).
-3. Refresh using sample AFL dataset or connect your own.
-4. Click around the slicers to filter the visuals in real-time.
+**Vinit Shetty**  
+📧 vinitshetty31@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vinitshetty/) 
+🌏 Based in Melbourne, Australia
 
 ---
 
-## 📁 Folder Structure
+## 📝 License
+
+MIT License — feel free to fork, customize, and share 🌐
+
+---
+
+> 💡 *If you'd like a GitHub Pages site with this dashboard and styling, I can help you deploy that too!*
 
